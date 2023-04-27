@@ -42,7 +42,7 @@ const AddExpenseForm = ({ budgets }) => {
             />
           </div>
           <div className="grid-xs">
-            <label htmlFor="newExpenseAmount">Expense Name</label>
+            <label htmlFor="newExpenseAmount">Amount</label>
             <input
               type="number"
               name="newExpenseAmount"
